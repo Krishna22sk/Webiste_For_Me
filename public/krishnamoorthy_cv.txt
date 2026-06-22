@@ -1,0 +1,35 @@
+Krishnamoorthy S
+Embedded Systems & IoT Engineer
+────────────────────────────────────────────────
+
+CONTACT
+Email  : krishnamoorthys1408@gmail.com
+GitHub : github.com/krishnamoorthy-s
+Phone  : +91 XXXXXXXXXX
+
+SUMMARY
+Embedded Systems & IoT Engineer specializing in ESP32, Arduino, and ARM/STM32
+microcontrollers. Experienced in firmware development, hardware integration,
+real-time systems, and IoT cloud connectivity.
+
+SKILLS
+• Microcontrollers : ESP32, Arduino, ARM/STM32, PIC, 8051
+• Programming      : Embedded C, C/C++, Python, Node.js
+• Protocols        : UART, SPI, I2C, MQTT, BLE, CAN, RS485, One-Wire
+• Hardware & Tools : RFID, Sensors, PCB Design (EasyEDA), FreeRTOS
+
+PROJECTS
+1. IoT Learning Kit
+   ESP32 & Arduino firmware with I2C, SPI, MQTT sensor integration
+   
+2. Gym Automation System
+   RFID-based locker assignment with MQTT dashboard monitoring
+
+3. Water Quality Monitor
+   Biofloc aquaculture monitoring — pH, DS18B20, Blynk cloud
+
+EDUCATION
+B.E. / B.Tech — Electronics & Communication Engineering
+
+────────────────────────────────────────────────
+References available on request
